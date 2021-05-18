@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Radaghast-teh-brown
+- 👀 I’m interested in Python, blockchain, artificial intelligence 
